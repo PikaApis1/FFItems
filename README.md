@@ -28,7 +28,7 @@
 ---
 
 ## 🌟 Visitors Count  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=PikaApis1)
+![Visitor Count](https://profile-counter.glitch.me/PikaApis1/count.svg)
 
 ---
 
