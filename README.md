@@ -29,8 +29,9 @@
 
 ## 🌟 Visitors Count  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PikaApis1&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Visitors Counter"/>
+  <img src="https://count.getloli.com/get/@PikaApis1?theme=rule34" alt="Visitors Counter"/>
 </p>
+
 
 ---
 
