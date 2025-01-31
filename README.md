@@ -28,7 +28,9 @@
 ---
 
 ## 🌟 Visitors Count  
-![Visitor Count](https://profile-counter.glitch.me/PikaApis1/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PikaApis1&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="Visitors Counter"/>
+</p>
 
 ---
 
