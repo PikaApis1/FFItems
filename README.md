@@ -12,18 +12,18 @@
 
 ---
 
-## ⚡ My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PikaApis1&show_icons=true&theme=radical)
+## ⚡ My Stats 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PikaApis1&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🔥 Current Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=PikaApis1&theme=radical)](https://git.io/streak-stats)
+## 🔥 Current Streak 
+[![GitHub Streak](https://streak-stats.demolab.com?user=PikaApis1&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
-## 🛠️ My Tools & Tech  
-![Tools & Technologies](https://skillicons.dev/icons?i=python,flask,javascript,html,css,react,nodejs,vercel,github)
+## 🛠️ Mastered in
+![Tools & Technologies](https://skillicons.dev/icons?i=python,flask,html,css,vercel,github,mongodb,php)
 
 ---
 
