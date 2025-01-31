@@ -13,12 +13,12 @@
 ---
 
 ## ⚡ My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pikaapis1&show_icons=true&theme=radical)
 
 ---
 
 ## 🔥 Current Streak  
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pikaapis1&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -28,7 +28,7 @@
 ---
 
 ## 🌟 Visitors Count  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pikaapis1)
 
 ---
 
