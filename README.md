@@ -29,7 +29,7 @@
 
 ## 🌟 Visitors Count  
 <p align="center">
-  <img src="https://count.getloli.com/get/@PikaApis1?theme=rule34" alt="Visitors Counter"/>
+  <img src="https://count.getloli.com/get/@PikaApis1?theme=sketch-2" alt="Visitors Counter"/>
 </p>
 
 
